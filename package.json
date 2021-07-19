@@ -21,7 +21,7 @@
 	"wf-build-config": {
 		"directories": {
 			"archive": "archive",
-			"dist": "dist",
+			"target": "target",
 			"src": "src",
 			"test": "test"
 		}
@@ -30,6 +30,7 @@
 		"del": "^6.0.0",
 		"gulp": "^4.0.2",
 		"gulp-cli": "^2.3.0",
+		"gulp-concat": "^2.6.1",
 		"normalize.css": "^8.0.1"
 	}
 }
